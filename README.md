@@ -1,1 +1,6 @@
-# 993_BusinessManagement
+## マネジャーの役割と心構え
+### VUCA
+- Volatility（変動性）	柔軟性・迅速な意思決定・リスク分散
+- Uncertainty（不確実性）	データ活用・仮説思考・予測力
+- Complexity（複雑性）	システム思考・専門家との連携・俯瞰力
+- Ambiguity（曖昧性）	多様な視点・クリティカルシンキング・創造性
